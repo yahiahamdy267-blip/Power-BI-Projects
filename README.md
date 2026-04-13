@@ -1,45 +1,44 @@
 # 📞 Salla Call Center Performance Analytics
-### Advanced Power BI Dashboard for Operational Excellence
+### لوحة معلومات Power BI المتقدمة لتحقيق التميز التشغيلي
 
 ---
 
-## 🌟 Project Overview
-This project presents a comprehensive, interactive **Power BI dashboard** designed for **Salla** to analyze and optimize their call center performance. It transforms raw call data into actionable insights across three distinct levels: Executive Summary, Agent Performance, and Project Overview.
+## 🌟 نظرة عامة على المشروع
+تم تصميم هذا المشروع لشركة **Salla** لتحليل وتحسين أداء مركز الاتصال الخاص بها. تقوم اللوحة بتحويل بيانات أكثر من **2 مليون مكالمة** إلى رؤى قابلة للتنفيذ عبر ثلاثة مستويات مميزة.
 
-## 🎨 Dashboard Design
-The dashboard utilizes a sleek, modern, and futuristic dark theme to enhance data readability and provide an engaging user experience (UI/UX).
-
----
-
-## 📸 Key Pages & Insights
-
-### 1. Executive Summary
-Designed for high-level stakeholders to monitor overall KPIs.
-* **Insights:** Tracks **Total Calls (2M)**, maintains a **90% Service Level**, and analyzes the gap between **Actual vs. Forecasted Calls** to optimize staffing.
-![Salla Executive Summary](image_9.png)
-
-### 2. Agent Performance
-A granular view of individual agent metrics for coaching and evaluation.
-* **Insights:** Identifies **Top Agents by Calls Handled**, monitors **Estimated CSAT (90%)**, and analyzes **Abandon Rate Trends** to improve customer satisfaction.
-![Salla Agent Performance](image_10.png)
-
-### 3. Project Overview
-Focuses on operational metrics and trend forecasting.
-* **Insights:** Tracks **On-Time Calls (239)**, monitors **Resolution % (98.68%)**, and provides time-based trends for **Abandonment** and **Call Volume Forecasting**.
-![Salla Project Overview](image_11.png)
+## 🎨 تصميم لوحة التحكم
+تستخدم لوحة التحكم سمة (Theme) داكنة وعصرية لتحسين قابلية قراءة البيانات وتوفير تجربة مستخدم (UI/UX) جذابة واحترافية.
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
-* **Data Visualisation:** Advanced chart selection, KPI card design, and dark theme customization.
-* **Interactive Features:** Page navigation, synchronized slicers, and drill-down capabilities.
-* **Data Modeling:** [Mention if you did any modeling/DAX, e.g., 'DAX for dynamic Service Level %'].
-* **Operational Analytics:** Forecasting, trend analysis, and performance benchmarking.
+## 📸 صفحات المشروع والرؤى المستخرجة
+
+### 1. ملخص تنفيذي (Executive Summary)
+مخصص لأصحاب المصلحة لمراقبة الأداء العام.
+* **أهم النتائج:** تتبع إجمالي المكالمات، والحفاظ على مستوى خدمة 90%، وتحليل الفجوة بين المكالمات الفعلية والمتوقعة.
+![Executive Summary](%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-05%20185751.jpg)
+
+### 2. أداء الوكيل (Agent Performance)
+عرض تفصيلي لمقاييس كل موظف لأغراض التدريب والتقييم.
+* **أهم النتائج:** تحديد أفضل الموظفين، ومراقبة معدل رضا العملاء (90%)، وتحليل أوقات الاستجابة.
+![Agent Performance](%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-05%20185809.jpg)
+
+### 3. نظرة عامة تشغيلية (Project Overview)
+يركز على الاتجاهات الزمنية والتنبؤ بحجم المكالمات.
+* **أهم النتائج:** تتبع المكالمات في الوقت المحدد، ونسبة حل المشكلات (98.68%)، والتنبؤ بالضغط المستقبلي.
+![Project Overview](%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-05%20185824.jpg)
 
 ---
 
-## 💡 Business Impact
-This dashboard empowers Salla's management to:
-1.  Reduce call abandon rates.
-2.  Improve agent training based on performance data.
-3.  Optimize staffing levels by matching actual demand with forecasts.
+## 🛠️ المهارات التقنية المستخدمة
+* **تصور البيانات (Data Visualization):** اختيار الرسوم البيانية المناسبة وتصميم الـ Layout.
+* **التفاعل:** استخدام التنقل بين الصفحات (Page Navigation) والفلاتر الذكية.
+* **تحليل العمليات:** التنبؤ بالبيانات وتحليل الاتجاهات الزمنية (Trends).
+
+---
+
+## 💡 التأثير على العمل
+تساعد هذه اللوحة إدارة "سلة" في:
+1. تقليل معدلات ترك المكالمات.
+2. تحسين تدريب الموظفين بناءً على أرقام حقيقية.
+3. توزيع الموظفين بشكل أفضل بناءً على التوقعات.
